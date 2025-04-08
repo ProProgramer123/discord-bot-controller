@@ -8,3 +8,5 @@ I am not responsible for bans or anything else.
 Q: Will there be a web version of it?
 
 A: No, never.
+
+THIS TOOL IS LICENCED!
